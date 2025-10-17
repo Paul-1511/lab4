@@ -1,0 +1,9 @@
+[package]
+name = "lab4"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+glm = "0.3.0"
+sdl2 = "0.38.0"
+tobj = "4.0.3"
